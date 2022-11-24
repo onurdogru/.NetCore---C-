@@ -1,0 +1,15 @@
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\bin\Debug\net7.0\4-) .NET Core - C#.exe
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\bin\Debug\net7.0\4-) .NET Core - C#.deps.json
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\bin\Debug\net7.0\4-) .NET Core - C#.runtimeconfig.json
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\bin\Debug\net7.0\4-) .NET Core - C#.dll
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\bin\Debug\net7.0\4-) .NET Core - C#.pdb
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.csproj.AssemblyReference.cache
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.AssemblyInfoInputs.cache
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.AssemblyInfo.cs
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.csproj.CoreCompileInputs.cache
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.dll
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\refint\4-) .NET Core - C#.dll
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.pdb
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\4-) .NET Core - C#.genruntimeconfig.cache
+C:\Users\onurd\OneDrive\Masaüstü\Software\Full Stack Web Developer Notes 2023\4-) .NET Core - C#\obj\Debug\net7.0\ref\4-) .NET Core - C#.dll
